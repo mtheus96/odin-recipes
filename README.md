@@ -6,4 +6,4 @@ Doing this project made me understand some concepts like absolute and relative p
 
 I've learned how to make the right use of **ordered** and **unordered** lists and how to use them with links.
 
-I've also learned how to use ***alt*** attribute, **<picture>** and **<figcaption>** elements to present images in a more sofisticated way wich is useful to support screen reader's used by user's that need acessibility support. 
+I've also learned how to use ***alt*** attribute, **picture** and **figcaption** elements to present images in a more sofisticated way wich is useful to support screen reader's used by user's that need acessibility support. 
